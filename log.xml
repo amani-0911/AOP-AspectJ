@@ -1,0 +1,829 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2022-02-20T12:54:29</date>
+  <millis>1645358069262</millis>
+  <sequence>0</sequence>
+  <logger>aspects.LoggingAspect</logger>
+  <level>INFO</level>
+  <class>aspects.LoggingAspect</class>
+  <method>before</method>
+  <thread>1</thread>
+  <message>********************</message>
+</record>
+<record>
+  <date>2022-02-20T12:54:29</date>
+  <millis>1645358069340</millis>
+  <sequence>1</sequence>
+  <logger>aspects.LoggingAspect</logger>
+  <level>INFO</level>
+  <class>aspects.LoggingAspect</class>
+  <method>before</method>
+  <thread>1</thread>
+  <message>Before l'execution de l'mèthodevoid test.Application.main(String[])</message>
+</record>
+<record>
+  <date>2022-02-20T12:54:35</date>
+  <millis>1645358075449</millis>
+  <sequence>2</sequence>
+  <logger>aspects.LoggingAspect</logger>
+  <level>INFO</level>
+  <class>aspects.LoggingAspect</class>
+  <method>before</method>
+  <thread>1</thread>
+  <message>********************</message>
+</record>
+<record>
+  <date>2022-02-20T12:54:35</date>
+  <millis>1645358075449</millis>
+  <sequence>3</sequence>
+  <logger>aspects.LoggingAspect</logger>
+  <level>INFO</level>
+  <class>aspects.LoggingAspect</class>
+  <method>before</method>
+  <thread>1</thread>
+  <message>Before l'execution de l'mèthodevoid test.Application.start()</message>
+</record>
+<record>
+  <date>2022-02-20T12:54:39</date>
+  <millis>1645358079749</millis>
+  <sequence>4</sequence>
+  <logger>aspects.LoggingAspect</logger>
+  <level>INFO</level>
+  <class>aspects.LoggingAspect</class>
+  <method>before</method>
+  <thread>1</thread>
+  <message>********************</message>
+</record>
+<record>
+  <date>2022-02-20T12:54:39</date>
+  <millis>1645358079749</millis>
+  <sequence>5</sequence>
+  <logger>aspects.LoggingAspect</logger>
+  <level>INFO</level>
+  <class>aspects.LoggingAspect</class>
+  <method>before</method>
+  <thread>1</thread>
+  <message>Before l'execution de l'mèthodemetier.IMetierImpl()</message>
+</record>
+<record>
+  <date>2022-02-20T12:54:39</date>
+  <millis>1645358079749</millis>
+  <sequence>6</sequence>
+  <logger>aspects.LoggingAspect</logger>
+  <level>INFO</level>
+  <class>aspects.LoggingAspect</class>
+  <method>after</method>
+  <thread>1</thread>
+  <message>After l'execution de l'mèthodemetier.IMetierImpl()</message>
+</record>
+<record>
+  <date>2022-02-20T12:54:39</date>
+  <millis>1645358079749</millis>
+  <sequence>7</sequence>
+  <logger>aspects.LoggingAspect</logger>
+  <level>INFO</level>
+  <class>aspects.LoggingAspect</class>
+  <method>after</method>
+  <thread>1</thread>
+  <message>La duree d'execution 0</message>
+</record>
+<record>
+  <date>2022-02-20T12:54:39</date>
+  <millis>1645358079749</millis>
+  <sequence>8</sequence>
+  <logger>aspects.LoggingAspect</logger>
+  <level>INFO</level>
+  <class>aspects.LoggingAspect</class>
+  <method>after</method>
+  <thread>1</thread>
+  <message>********************</message>
+</record>
+<record>
+  <date>2022-02-20T12:54:39</date>
+  <millis>1645358079749</millis>
+  <sequence>9</sequence>
+  <logger>aspects.LoggingAspect</logger>
+  <level>INFO</level>
+  <class>aspects.LoggingAspect</class>
+  <method>before</method>
+  <thread>1</thread>
+  <message>********************</message>
+</record>
+<record>
+  <date>2022-02-20T12:54:39</date>
+  <millis>1645358079749</millis>
+  <sequence>10</sequence>
+  <logger>aspects.LoggingAspect</logger>
+  <level>INFO</level>
+  <class>aspects.LoggingAspect</class>
+  <method>before</method>
+  <thread>1</thread>
+  <message>Before l'execution de l'mèthodevoid metier.IMetierImpl.addCompte(Compte)</message>
+</record>
+<record>
+  <date>2022-02-20T12:54:39</date>
+  <millis>1645358079749</millis>
+  <sequence>11</sequence>
+  <logger>aspects.LoggingAspect</logger>
+  <level>INFO</level>
+  <class>aspects.LoggingAspect</class>
+  <method>before</method>
+  <thread>1</thread>
+  <message>********************</message>
+</record>
+<record>
+  <date>2022-02-20T12:54:39</date>
+  <millis>1645358079749</millis>
+  <sequence>12</sequence>
+  <logger>aspects.LoggingAspect</logger>
+  <level>INFO</level>
+  <class>aspects.LoggingAspect</class>
+  <method>before</method>
+  <thread>1</thread>
+  <message>Before l'execution de l'mèthodeLong metier.Compte.getCode()</message>
+</record>
+<record>
+  <date>2022-02-20T12:54:39</date>
+  <millis>1645358079749</millis>
+  <sequence>13</sequence>
+  <logger>aspects.LoggingAspect</logger>
+  <level>INFO</level>
+  <class>aspects.LoggingAspect</class>
+  <method>after</method>
+  <thread>1</thread>
+  <message>After l'execution de l'mèthodeLong metier.Compte.getCode()</message>
+</record>
+<record>
+  <date>2022-02-20T12:54:39</date>
+  <millis>1645358079749</millis>
+  <sequence>14</sequence>
+  <logger>aspects.LoggingAspect</logger>
+  <level>INFO</level>
+  <class>aspects.LoggingAspect</class>
+  <method>after</method>
+  <thread>1</thread>
+  <message>La duree d'execution 0</message>
+</record>
+<record>
+  <date>2022-02-20T12:54:39</date>
+  <millis>1645358079749</millis>
+  <sequence>15</sequence>
+  <logger>aspects.LoggingAspect</logger>
+  <level>INFO</level>
+  <class>aspects.LoggingAspect</class>
+  <method>after</method>
+  <thread>1</thread>
+  <message>********************</message>
+</record>
+<record>
+  <date>2022-02-20T12:54:39</date>
+  <millis>1645358079749</millis>
+  <sequence>16</sequence>
+  <logger>aspects.LoggingAspect</logger>
+  <level>INFO</level>
+  <class>aspects.LoggingAspect</class>
+  <method>before</method>
+  <thread>1</thread>
+  <message>********************</message>
+</record>
+<record>
+  <date>2022-02-20T12:54:39</date>
+  <millis>1645358079749</millis>
+  <sequence>17</sequence>
+  <logger>aspects.LoggingAspect</logger>
+  <level>INFO</level>
+  <class>aspects.LoggingAspect</class>
+  <method>before</method>
+  <thread>1</thread>
+  <message>Before l'execution de l'mèthodeLong metier.Compte.getCode()</message>
+</record>
+<record>
+  <date>2022-02-20T12:54:39</date>
+  <millis>1645358079749</millis>
+  <sequence>18</sequence>
+  <logger>aspects.LoggingAspect</logger>
+  <level>INFO</level>
+  <class>aspects.LoggingAspect</class>
+  <method>after</method>
+  <thread>1</thread>
+  <message>After l'execution de l'mèthodeLong metier.Compte.getCode()</message>
+</record>
+<record>
+  <date>2022-02-20T12:54:39</date>
+  <millis>1645358079749</millis>
+  <sequence>19</sequence>
+  <logger>aspects.LoggingAspect</logger>
+  <level>INFO</level>
+  <class>aspects.LoggingAspect</class>
+  <method>after</method>
+  <thread>1</thread>
+  <message>La duree d'execution 0</message>
+</record>
+<record>
+  <date>2022-02-20T12:54:39</date>
+  <millis>1645358079749</millis>
+  <sequence>20</sequence>
+  <logger>aspects.LoggingAspect</logger>
+  <level>INFO</level>
+  <class>aspects.LoggingAspect</class>
+  <method>after</method>
+  <thread>1</thread>
+  <message>********************</message>
+</record>
+<record>
+  <date>2022-02-20T12:54:39</date>
+  <millis>1645358079749</millis>
+  <sequence>21</sequence>
+  <logger>aspects.LoggingAspect</logger>
+  <level>INFO</level>
+  <class>aspects.LoggingAspect</class>
+  <method>after</method>
+  <thread>1</thread>
+  <message>After l'execution de l'mèthodevoid metier.IMetierImpl.addCompte(Compte)</message>
+</record>
+<record>
+  <date>2022-02-20T12:54:39</date>
+  <millis>1645358079749</millis>
+  <sequence>22</sequence>
+  <logger>aspects.LoggingAspect</logger>
+  <level>INFO</level>
+  <class>aspects.LoggingAspect</class>
+  <method>after</method>
+  <thread>1</thread>
+  <message>La duree d'execution 0</message>
+</record>
+<record>
+  <date>2022-02-20T12:54:39</date>
+  <millis>1645358079749</millis>
+  <sequence>23</sequence>
+  <logger>aspects.LoggingAspect</logger>
+  <level>INFO</level>
+  <class>aspects.LoggingAspect</class>
+  <method>after</method>
+  <thread>1</thread>
+  <message>********************</message>
+</record>
+<record>
+  <date>2022-02-20T12:54:39</date>
+  <millis>1645358079749</millis>
+  <sequence>24</sequence>
+  <logger>aspects.LoggingAspect</logger>
+  <level>INFO</level>
+  <class>aspects.LoggingAspect</class>
+  <method>before</method>
+  <thread>1</thread>
+  <message>********************</message>
+</record>
+<record>
+  <date>2022-02-20T12:54:39</date>
+  <millis>1645358079749</millis>
+  <sequence>25</sequence>
+  <logger>aspects.LoggingAspect</logger>
+  <level>INFO</level>
+  <class>aspects.LoggingAspect</class>
+  <method>before</method>
+  <thread>1</thread>
+  <message>Before l'execution de l'mèthodeCompte metier.IMetierImpl.getCompte(Long)</message>
+</record>
+<record>
+  <date>2022-02-20T12:54:39</date>
+  <millis>1645358079749</millis>
+  <sequence>26</sequence>
+  <logger>aspects.LoggingAspect</logger>
+  <level>INFO</level>
+  <class>aspects.LoggingAspect</class>
+  <method>after</method>
+  <thread>1</thread>
+  <message>After l'execution de l'mèthodeCompte metier.IMetierImpl.getCompte(Long)</message>
+</record>
+<record>
+  <date>2022-02-20T12:54:39</date>
+  <millis>1645358079749</millis>
+  <sequence>27</sequence>
+  <logger>aspects.LoggingAspect</logger>
+  <level>INFO</level>
+  <class>aspects.LoggingAspect</class>
+  <method>after</method>
+  <thread>1</thread>
+  <message>La duree d'execution 0</message>
+</record>
+<record>
+  <date>2022-02-20T12:54:39</date>
+  <millis>1645358079749</millis>
+  <sequence>28</sequence>
+  <logger>aspects.LoggingAspect</logger>
+  <level>INFO</level>
+  <class>aspects.LoggingAspect</class>
+  <method>after</method>
+  <thread>1</thread>
+  <message>********************</message>
+</record>
+<record>
+  <date>2022-02-20T12:54:39</date>
+  <millis>1645358079749</millis>
+  <sequence>29</sequence>
+  <logger>aspects.LoggingAspect</logger>
+  <level>INFO</level>
+  <class>aspects.LoggingAspect</class>
+  <method>before</method>
+  <thread>1</thread>
+  <message>********************</message>
+</record>
+<record>
+  <date>2022-02-20T12:54:39</date>
+  <millis>1645358079749</millis>
+  <sequence>30</sequence>
+  <logger>aspects.LoggingAspect</logger>
+  <level>INFO</level>
+  <class>aspects.LoggingAspect</class>
+  <method>before</method>
+  <thread>1</thread>
+  <message>Before l'execution de l'mèthodeString metier.Compte.toString()</message>
+</record>
+<record>
+  <date>2022-02-20T12:54:39</date>
+  <millis>1645358079765</millis>
+  <sequence>31</sequence>
+  <logger>aspects.LoggingAspect</logger>
+  <level>INFO</level>
+  <class>aspects.LoggingAspect</class>
+  <method>after</method>
+  <thread>1</thread>
+  <message>After l'execution de l'mèthodeString metier.Compte.toString()</message>
+</record>
+<record>
+  <date>2022-02-20T12:54:39</date>
+  <millis>1645358079765</millis>
+  <sequence>32</sequence>
+  <logger>aspects.LoggingAspect</logger>
+  <level>INFO</level>
+  <class>aspects.LoggingAspect</class>
+  <method>after</method>
+  <thread>1</thread>
+  <message>La duree d'execution 16</message>
+</record>
+<record>
+  <date>2022-02-20T12:54:39</date>
+  <millis>1645358079765</millis>
+  <sequence>33</sequence>
+  <logger>aspects.LoggingAspect</logger>
+  <level>INFO</level>
+  <class>aspects.LoggingAspect</class>
+  <method>after</method>
+  <thread>1</thread>
+  <message>********************</message>
+</record>
+<record>
+  <date>2022-02-20T12:54:44</date>
+  <millis>1645358084593</millis>
+  <sequence>34</sequence>
+  <logger>aspects.LoggingAspect</logger>
+  <level>INFO</level>
+  <class>aspects.LoggingAspect</class>
+  <method>before</method>
+  <thread>1</thread>
+  <message>********************</message>
+</record>
+<record>
+  <date>2022-02-20T12:54:44</date>
+  <millis>1645358084593</millis>
+  <sequence>35</sequence>
+  <logger>aspects.LoggingAspect</logger>
+  <level>INFO</level>
+  <class>aspects.LoggingAspect</class>
+  <method>before</method>
+  <thread>1</thread>
+  <message>Before l'execution de l'mèthodeCompte metier.IMetierImpl.getCompte(Long)</message>
+</record>
+<record>
+  <date>2022-02-20T12:54:44</date>
+  <millis>1645358084593</millis>
+  <sequence>36</sequence>
+  <logger>aspects.LoggingAspect</logger>
+  <level>INFO</level>
+  <class>aspects.LoggingAspect</class>
+  <method>after</method>
+  <thread>1</thread>
+  <message>After l'execution de l'mèthodeCompte metier.IMetierImpl.getCompte(Long)</message>
+</record>
+<record>
+  <date>2022-02-20T12:54:44</date>
+  <millis>1645358084593</millis>
+  <sequence>37</sequence>
+  <logger>aspects.LoggingAspect</logger>
+  <level>INFO</level>
+  <class>aspects.LoggingAspect</class>
+  <method>after</method>
+  <thread>1</thread>
+  <message>La duree d'execution 0</message>
+</record>
+<record>
+  <date>2022-02-20T12:54:44</date>
+  <millis>1645358084593</millis>
+  <sequence>38</sequence>
+  <logger>aspects.LoggingAspect</logger>
+  <level>INFO</level>
+  <class>aspects.LoggingAspect</class>
+  <method>after</method>
+  <thread>1</thread>
+  <message>********************</message>
+</record>
+<record>
+  <date>2022-02-20T12:54:44</date>
+  <millis>1645358084593</millis>
+  <sequence>39</sequence>
+  <logger>aspects.LoggingAspect</logger>
+  <level>INFO</level>
+  <class>aspects.LoggingAspect</class>
+  <method>before</method>
+  <thread>1</thread>
+  <message>********************</message>
+</record>
+<record>
+  <date>2022-02-20T12:54:44</date>
+  <millis>1645358084593</millis>
+  <sequence>40</sequence>
+  <logger>aspects.LoggingAspect</logger>
+  <level>INFO</level>
+  <class>aspects.LoggingAspect</class>
+  <method>before</method>
+  <thread>1</thread>
+  <message>Before l'execution de l'mèthodedouble metier.Compte.getSolde()</message>
+</record>
+<record>
+  <date>2022-02-20T12:54:44</date>
+  <millis>1645358084609</millis>
+  <sequence>41</sequence>
+  <logger>aspects.LoggingAspect</logger>
+  <level>INFO</level>
+  <class>aspects.LoggingAspect</class>
+  <method>after</method>
+  <thread>1</thread>
+  <message>After l'execution de l'mèthodedouble metier.Compte.getSolde()</message>
+</record>
+<record>
+  <date>2022-02-20T12:54:44</date>
+  <millis>1645358084609</millis>
+  <sequence>42</sequence>
+  <logger>aspects.LoggingAspect</logger>
+  <level>INFO</level>
+  <class>aspects.LoggingAspect</class>
+  <method>after</method>
+  <thread>1</thread>
+  <message>La duree d'execution 0</message>
+</record>
+<record>
+  <date>2022-02-20T12:54:44</date>
+  <millis>1645358084609</millis>
+  <sequence>43</sequence>
+  <logger>aspects.LoggingAspect</logger>
+  <level>INFO</level>
+  <class>aspects.LoggingAspect</class>
+  <method>after</method>
+  <thread>1</thread>
+  <message>********************</message>
+</record>
+<record>
+  <date>2022-02-20T12:54:44</date>
+  <millis>1645358084609</millis>
+  <sequence>44</sequence>
+  <logger>aspects.LoggingAspect</logger>
+  <level>INFO</level>
+  <class>aspects.LoggingAspect</class>
+  <method>before</method>
+  <thread>1</thread>
+  <message>********************</message>
+</record>
+<record>
+  <date>2022-02-20T12:54:44</date>
+  <millis>1645358084609</millis>
+  <sequence>45</sequence>
+  <logger>aspects.LoggingAspect</logger>
+  <level>INFO</level>
+  <class>aspects.LoggingAspect</class>
+  <method>before</method>
+  <thread>1</thread>
+  <message>Before l'execution de l'mèthodevoid metier.IMetierImpl.retirer(Long, double)</message>
+</record>
+<record>
+  <date>2022-02-20T12:54:44</date>
+  <millis>1645358084609</millis>
+  <sequence>46</sequence>
+  <logger>aspects.LoggingAspect</logger>
+  <level>INFO</level>
+  <class>aspects.LoggingAspect</class>
+  <method>before</method>
+  <thread>1</thread>
+  <message>********************</message>
+</record>
+<record>
+  <date>2022-02-20T12:54:44</date>
+  <millis>1645358084609</millis>
+  <sequence>47</sequence>
+  <logger>aspects.LoggingAspect</logger>
+  <level>INFO</level>
+  <class>aspects.LoggingAspect</class>
+  <method>before</method>
+  <thread>1</thread>
+  <message>Before l'execution de l'mèthodedouble metier.Compte.getSolde()</message>
+</record>
+<record>
+  <date>2022-02-20T12:54:44</date>
+  <millis>1645358084609</millis>
+  <sequence>48</sequence>
+  <logger>aspects.LoggingAspect</logger>
+  <level>INFO</level>
+  <class>aspects.LoggingAspect</class>
+  <method>after</method>
+  <thread>1</thread>
+  <message>After l'execution de l'mèthodedouble metier.Compte.getSolde()</message>
+</record>
+<record>
+  <date>2022-02-20T12:54:44</date>
+  <millis>1645358084609</millis>
+  <sequence>49</sequence>
+  <logger>aspects.LoggingAspect</logger>
+  <level>INFO</level>
+  <class>aspects.LoggingAspect</class>
+  <method>after</method>
+  <thread>1</thread>
+  <message>La duree d'execution 0</message>
+</record>
+<record>
+  <date>2022-02-20T12:54:44</date>
+  <millis>1645358084609</millis>
+  <sequence>50</sequence>
+  <logger>aspects.LoggingAspect</logger>
+  <level>INFO</level>
+  <class>aspects.LoggingAspect</class>
+  <method>after</method>
+  <thread>1</thread>
+  <message>********************</message>
+</record>
+<record>
+  <date>2022-02-20T12:54:44</date>
+  <millis>1645358084609</millis>
+  <sequence>51</sequence>
+  <logger>aspects.LoggingAspect</logger>
+  <level>INFO</level>
+  <class>aspects.LoggingAspect</class>
+  <method>before</method>
+  <thread>1</thread>
+  <message>********************</message>
+</record>
+<record>
+  <date>2022-02-20T12:54:44</date>
+  <millis>1645358084609</millis>
+  <sequence>52</sequence>
+  <logger>aspects.LoggingAspect</logger>
+  <level>INFO</level>
+  <class>aspects.LoggingAspect</class>
+  <method>before</method>
+  <thread>1</thread>
+  <message>Before l'execution de l'mèthodevoid metier.Compte.setSolde(double)</message>
+</record>
+<record>
+  <date>2022-02-20T12:54:44</date>
+  <millis>1645358084609</millis>
+  <sequence>53</sequence>
+  <logger>aspects.LoggingAspect</logger>
+  <level>INFO</level>
+  <class>aspects.LoggingAspect</class>
+  <method>after</method>
+  <thread>1</thread>
+  <message>After l'execution de l'mèthodevoid metier.Compte.setSolde(double)</message>
+</record>
+<record>
+  <date>2022-02-20T12:54:44</date>
+  <millis>1645358084609</millis>
+  <sequence>54</sequence>
+  <logger>aspects.LoggingAspect</logger>
+  <level>INFO</level>
+  <class>aspects.LoggingAspect</class>
+  <method>after</method>
+  <thread>1</thread>
+  <message>La duree d'execution 0</message>
+</record>
+<record>
+  <date>2022-02-20T12:54:44</date>
+  <millis>1645358084609</millis>
+  <sequence>55</sequence>
+  <logger>aspects.LoggingAspect</logger>
+  <level>INFO</level>
+  <class>aspects.LoggingAspect</class>
+  <method>after</method>
+  <thread>1</thread>
+  <message>********************</message>
+</record>
+<record>
+  <date>2022-02-20T12:54:44</date>
+  <millis>1645358084609</millis>
+  <sequence>56</sequence>
+  <logger>aspects.LoggingAspect</logger>
+  <level>INFO</level>
+  <class>aspects.LoggingAspect</class>
+  <method>after</method>
+  <thread>1</thread>
+  <message>After l'execution de l'mèthodevoid metier.IMetierImpl.retirer(Long, double)</message>
+</record>
+<record>
+  <date>2022-02-20T12:54:44</date>
+  <millis>1645358084609</millis>
+  <sequence>57</sequence>
+  <logger>aspects.LoggingAspect</logger>
+  <level>INFO</level>
+  <class>aspects.LoggingAspect</class>
+  <method>after</method>
+  <thread>1</thread>
+  <message>La duree d'execution 0</message>
+</record>
+<record>
+  <date>2022-02-20T12:54:44</date>
+  <millis>1645358084609</millis>
+  <sequence>58</sequence>
+  <logger>aspects.LoggingAspect</logger>
+  <level>INFO</level>
+  <class>aspects.LoggingAspect</class>
+  <method>after</method>
+  <thread>1</thread>
+  <message>********************</message>
+</record>
+<record>
+  <date>2022-02-20T12:54:44</date>
+  <millis>1645358084609</millis>
+  <sequence>59</sequence>
+  <logger>aspects.LoggingAspect</logger>
+  <level>INFO</level>
+  <class>aspects.LoggingAspect</class>
+  <method>before</method>
+  <thread>1</thread>
+  <message>********************</message>
+</record>
+<record>
+  <date>2022-02-20T12:54:44</date>
+  <millis>1645358084609</millis>
+  <sequence>60</sequence>
+  <logger>aspects.LoggingAspect</logger>
+  <level>INFO</level>
+  <class>aspects.LoggingAspect</class>
+  <method>before</method>
+  <thread>1</thread>
+  <message>Before l'execution de l'mèthodeCompte metier.IMetierImpl.getCompte(Long)</message>
+</record>
+<record>
+  <date>2022-02-20T12:54:44</date>
+  <millis>1645358084609</millis>
+  <sequence>61</sequence>
+  <logger>aspects.LoggingAspect</logger>
+  <level>INFO</level>
+  <class>aspects.LoggingAspect</class>
+  <method>after</method>
+  <thread>1</thread>
+  <message>After l'execution de l'mèthodeCompte metier.IMetierImpl.getCompte(Long)</message>
+</record>
+<record>
+  <date>2022-02-20T12:54:44</date>
+  <millis>1645358084609</millis>
+  <sequence>62</sequence>
+  <logger>aspects.LoggingAspect</logger>
+  <level>INFO</level>
+  <class>aspects.LoggingAspect</class>
+  <method>after</method>
+  <thread>1</thread>
+  <message>La duree d'execution 0</message>
+</record>
+<record>
+  <date>2022-02-20T12:54:44</date>
+  <millis>1645358084609</millis>
+  <sequence>63</sequence>
+  <logger>aspects.LoggingAspect</logger>
+  <level>INFO</level>
+  <class>aspects.LoggingAspect</class>
+  <method>after</method>
+  <thread>1</thread>
+  <message>********************</message>
+</record>
+<record>
+  <date>2022-02-20T12:54:44</date>
+  <millis>1645358084609</millis>
+  <sequence>64</sequence>
+  <logger>aspects.LoggingAspect</logger>
+  <level>INFO</level>
+  <class>aspects.LoggingAspect</class>
+  <method>before</method>
+  <thread>1</thread>
+  <message>********************</message>
+</record>
+<record>
+  <date>2022-02-20T12:54:44</date>
+  <millis>1645358084609</millis>
+  <sequence>65</sequence>
+  <logger>aspects.LoggingAspect</logger>
+  <level>INFO</level>
+  <class>aspects.LoggingAspect</class>
+  <method>before</method>
+  <thread>1</thread>
+  <message>Before l'execution de l'mèthodeString metier.Compte.toString()</message>
+</record>
+<record>
+  <date>2022-02-20T12:54:44</date>
+  <millis>1645358084609</millis>
+  <sequence>66</sequence>
+  <logger>aspects.LoggingAspect</logger>
+  <level>INFO</level>
+  <class>aspects.LoggingAspect</class>
+  <method>after</method>
+  <thread>1</thread>
+  <message>After l'execution de l'mèthodeString metier.Compte.toString()</message>
+</record>
+<record>
+  <date>2022-02-20T12:54:44</date>
+  <millis>1645358084609</millis>
+  <sequence>67</sequence>
+  <logger>aspects.LoggingAspect</logger>
+  <level>INFO</level>
+  <class>aspects.LoggingAspect</class>
+  <method>after</method>
+  <thread>1</thread>
+  <message>La duree d'execution 0</message>
+</record>
+<record>
+  <date>2022-02-20T12:54:44</date>
+  <millis>1645358084609</millis>
+  <sequence>68</sequence>
+  <logger>aspects.LoggingAspect</logger>
+  <level>INFO</level>
+  <class>aspects.LoggingAspect</class>
+  <method>after</method>
+  <thread>1</thread>
+  <message>********************</message>
+</record>
+<record>
+  <date>2022-02-20T12:54:56</date>
+  <millis>1645358096258</millis>
+  <sequence>69</sequence>
+  <logger>aspects.LoggingAspect</logger>
+  <level>INFO</level>
+  <class>aspects.LoggingAspect</class>
+  <method>after</method>
+  <thread>1</thread>
+  <message>After l'execution de l'mèthodevoid test.Application.start()</message>
+</record>
+<record>
+  <date>2022-02-20T12:54:56</date>
+  <millis>1645358096258</millis>
+  <sequence>70</sequence>
+  <logger>aspects.LoggingAspect</logger>
+  <level>INFO</level>
+  <class>aspects.LoggingAspect</class>
+  <method>after</method>
+  <thread>1</thread>
+  <message>La duree d'execution 11649</message>
+</record>
+<record>
+  <date>2022-02-20T12:54:56</date>
+  <millis>1645358096258</millis>
+  <sequence>71</sequence>
+  <logger>aspects.LoggingAspect</logger>
+  <level>INFO</level>
+  <class>aspects.LoggingAspect</class>
+  <method>after</method>
+  <thread>1</thread>
+  <message>********************</message>
+</record>
+<record>
+  <date>2022-02-20T12:54:56</date>
+  <millis>1645358096258</millis>
+  <sequence>72</sequence>
+  <logger>aspects.LoggingAspect</logger>
+  <level>INFO</level>
+  <class>aspects.LoggingAspect</class>
+  <method>after</method>
+  <thread>1</thread>
+  <message>After l'execution de l'mèthodevoid test.Application.main(String[])</message>
+</record>
+<record>
+  <date>2022-02-20T12:54:56</date>
+  <millis>1645358096259</millis>
+  <sequence>73</sequence>
+  <logger>aspects.LoggingAspect</logger>
+  <level>INFO</level>
+  <class>aspects.LoggingAspect</class>
+  <method>after</method>
+  <thread>1</thread>
+  <message>La duree d'execution 11650</message>
+</record>
+<record>
+  <date>2022-02-20T12:54:56</date>
+  <millis>1645358096259</millis>
+  <sequence>74</sequence>
+  <logger>aspects.LoggingAspect</logger>
+  <level>INFO</level>
+  <class>aspects.LoggingAspect</class>
+  <method>after</method>
+  <thread>1</thread>
+  <message>********************</message>
+</record>
+</log>
